@@ -1,0 +1,12 @@
+{
+  "source": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/temp/drag/5S客人6月2日实装（May23,26).xlsx",
+  "sheet_count": 1,
+  "outputs": [
+    {
+      "sheet": "Sheet2",
+      "csv": "/Users/USER/Documents/Codex/2026-06-21/new-chat-4/outputs/5S客人6月2日实装（May23,26).csv",
+      "rows": 35,
+      "columns": 13
+    }
+  ]
+}
